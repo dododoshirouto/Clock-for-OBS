@@ -1,8 +1,17 @@
 # Stream Clock for OBS
 
+## Use on GitHub Pages
+
+[https://dododoshirouto.github.io/Clock-for-OBS/](https://dododoshirouto.github.io/Clock-for-OBS/)
+
 ## How to use
 
-TODO: 後で書く
+1. Add **Browser Source** in your scene.
+2. Open property.
+3. Set size. Recommend -> 800 x 600
+4. Enter this URL. -> `https://dododoshirouto.github.io/Clock-for-OBS/`
+5. Add option parameters at after URL end.
+6. Click **OK**
 
 ## Parameters
 

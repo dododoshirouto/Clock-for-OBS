@@ -27,7 +27,7 @@ body.darkmode {
 
 body.debug {
     background-color: gray;
-    background-image: url("https://pbs.twimg.com/media/GZDR67DbwAA_XCj?format=jpg&name=900x900");
+    /* background-image: url("https://pbs.twimg.com/media/GZDR67DbwAA_XCj?format=jpg&name=900x900"); */
 }
 
 main {

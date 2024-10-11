@@ -38,7 +38,7 @@ main {
 }
 body.align-top main {
     align-items: flex-start;
-    padding-top: calc(var(--bg-margin)* 2 - 0.12em);
+    padding-top: var(--bg-margin);
 }
 
 #main_container {

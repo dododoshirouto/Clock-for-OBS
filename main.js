@@ -113,6 +113,12 @@ function getStyleFromURLParameters() {
             case "title-letter-spacing":
                 style_text = `#main_container { --title-letter-spacing: ${value}; }`;
                 break;
+            case "border-color":
+                style_text = `#main_container { --border-color: ${value}; }`;
+                break;
+            case "border-width":
+                style_text = `#main_container { --bg-border-width: ${value}; }`;
+                break;
         }
 
         if (style_text) {

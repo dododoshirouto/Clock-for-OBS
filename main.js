@@ -117,7 +117,7 @@ function getStyleFromURLParameters() {
                 style_text = `#main_container { --border-color: ${value}; }`;
                 break;
             case "border-width":
-                style_text = `#main_container { --bg-border-width: ${value}; }`;
+                style_text = `#main_container { --border-width: ${value}; }`;
                 break;
         }
 
